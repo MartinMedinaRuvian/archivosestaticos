@@ -1,0 +1,339 @@
+{   "letras":["b","c","d","p","s"],
+    "b": [
+        {
+            "silaba": "bu",
+            "nombre": "Bulbasur",
+            "imagen": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/001.png",
+            "frases": [
+                {
+                    "frase": "Bulbasur es un pokemon de tipo planta"
+                },
+                {
+                    "frase": "Bulbasur es de color verde"
+                }
+            ]
+        },
+        {
+            "silaba": "ba",
+            "nombre": "Bagon",
+            "imagen": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/371.png",
+            "frases": [
+                {
+                    "frase": "Bagon es un Pokémon tipo dragón"
+                },
+                {
+                    "frase": "Bagon es de color azul"
+                }
+            ]
+        }
+    ],
+    "c": [
+        {
+            "silaba": "ca",
+            "nombre": "Cacturne",
+            "imagen": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/332.png",
+            "frases": [
+                {
+                    "frase": "Bulbasur es un pokemon de tipo planta"
+                },
+                {
+                    "frase": "Bulbasur es de color verde"
+                }
+            ]
+        },
+        {
+            "silaba": "co",
+            "nombre": "Corsola",
+            "imagen": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/222.png",
+            "frases": [
+                {
+                    "frase": "Bagon es un Pokémon tipo dragón"
+                },
+                {
+                    "frase": "Bagon es de color azul"
+                }
+            ]
+        },
+        {
+            "silaba": "cu",
+            "nombre": "Cubone",
+            "imagen": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/104.png",
+            "frases": [
+                {
+                    "frase": "Bagon es un Pokémon tipo dragón"
+                },
+                {
+                    "frase": "Bagon es de color azul"
+                }
+            ]
+        }
+    ],
+    "d": [
+        {
+            "silaba": "da",
+            "nombre": "Dartrix",
+            "imagen": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/723.png",
+            "frases": [
+                {
+                    "frase": "Bulbasur es un pokemon de tipo planta"
+                },
+                {
+                    "frase": "Bulbasur es de color verde"
+                }
+            ]
+        },
+        {
+            "silaba": "de",
+            "nombre": "Deino",
+            "imagen": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/633.png",
+            "frases": [
+                {
+                    "frase": "Bagon es un Pokémon tipo dragón"
+                },
+                {
+                    "frase": "Bagon es de color azul"
+                }
+            ]
+        },
+        {
+            "silaba": "di",
+            "nombre": "Ditto",
+            "imagen": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/132.png",
+            "frases": [
+                {
+                    "frase": "Bagon es un Pokémon tipo dragón"
+                },
+                {
+                    "frase": "Bagon es de color azul"
+                }
+            ]
+        },
+        {
+            "silaba": "do",
+            "nombre": "Doduo",
+            "imagen": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/084.png",
+            "frases": [
+                {
+                    "frase": "Bagon es un Pokémon tipo dragón"
+                },
+                {
+                    "frase": "Bagon es de color azul"
+                }
+            ]
+        },
+        {
+            "silaba": "du",
+            "nombre": "Dustox",
+            "imagen": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/269.png",
+            "frases": [
+                {
+                    "frase": "Bagon es un Pokémon tipo dragón"
+                },
+                {
+                    "frase": "Bagon es de color azul"
+                }
+            ]
+        }
+    ],
+    "m": [
+        {
+            "silaba": "ma",
+            "nombre": "Malamar",
+            "imagen": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/687.png",
+            "frases": [
+                {
+                    "frase": "Bulbasur es un pokemon de tipo planta"
+                },
+                {
+                    "frase": "Bulbasur es de color verde"
+                }
+            ]
+        },
+        {
+            "silaba": "me",
+            "nombre": "Metapod",
+            "imagen": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/011.png",
+            "frases": [
+                {
+                    "frase": "Bagon es un Pokémon tipo dragón"
+                },
+                {
+                    "frase": "Bagon es de color azul"
+                }
+            ]
+        },
+        {
+            "silaba": "mi",
+            "nombre": "Minun",
+            "imagen": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/312.png",
+            "frases": [
+                {
+                    "frase": "Bagon es un Pokémon tipo dragón"
+                },
+                {
+                    "frase": "Bagon es de color azul"
+                }
+            ]
+        },
+        {
+            "silaba": "mo",
+            "nombre": "Monferno",
+            "imagen": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/391.png",
+            "frases": [
+                {
+                    "frase": "Bagon es un Pokémon tipo dragón"
+                },
+                {
+                    "frase": "Bagon es de color azul"
+                }
+            ]
+        },
+        {
+            "silaba": "mu",
+            "nombre": "Muk",
+            "imagen": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/089.png",
+            "frases": [
+                {
+                    "frase": "Bagon es un Pokémon tipo dragón"
+                },
+                {
+                    "frase": "Bagon es de color azul"
+                }
+            ]
+        }
+    ],
+    "p": [
+        {
+            "silaba": "pa",
+            "nombre": "Paras",
+            "imagen": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/046.png",
+            "frases": [
+                {
+                    "frase": "Bulbasur es un pokemon de tipo planta"
+                },
+                {
+                    "frase": "Bulbasur es de color verde"
+                }
+            ]
+        },
+        {
+            "silaba": "pe",
+            "nombre": "Persian",
+            "imagen": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/053.png",
+            "frases": [
+                {
+                    "frase": "Bagon es un Pokémon tipo dragón"
+                },
+                {
+                    "frase": "Bagon es de color azul"
+                }
+            ]
+        },
+        {
+            "silaba": "pi",
+            "nombre": "Pikachu",
+            "imagen": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/025.png",
+            "frases": [
+                {
+                    "frase": "Bagon es un Pokémon tipo dragón"
+                },
+                {
+                    "frase": "Bagon es de color azul"
+                }
+            ]
+        },
+        {
+            "silaba": "po",
+            "nombre": "Popplio",
+            "imagen": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/728.png",
+            "frases": [
+                {
+                    "frase": "Bagon es un Pokémon tipo dragón"
+                },
+                {
+                    "frase": "Bagon es de color azul"
+                }
+            ]
+        },
+        {
+            "silaba": "pu",
+            "nombre": "Pupitar",
+            "imagen": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/247.png",
+            "frases": [
+                {
+                    "frase": "Bagon es un Pokémon tipo dragón"
+                },
+                {
+                    "frase": "Bagon es de color azul"
+                }
+            ]
+        }
+    ],
+    "s": [
+        {
+            "silaba": "sa",
+            "nombre": "Sandile",
+            "imagen": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/551.png",
+            "frases": [
+                {
+                    "frase": "Bulbasur es un pokemon de tipo planta"
+                },
+                {
+                    "frase": "Bulbasur es de color verde"
+                }
+            ]
+        },
+        {
+            "silaba": "se",
+            "nombre": "Servine",
+            "imagen": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/496.png",
+            "frases": [
+                {
+                    "frase": "Bagon es un Pokémon tipo dragón"
+                },
+                {
+                    "frase": "Bagon es de color azul"
+                }
+            ]
+        },
+        {
+            "silaba": "si",
+            "nombre": "Simisage",
+            "imagen": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/512.png",
+            "frases": [
+                {
+                    "frase": "Bagon es un Pokémon tipo dragón"
+                },
+                {
+                    "frase": "Bagon es de color azul"
+                }
+            ]
+        },
+        {
+            "silaba": "so",
+            "nombre": "Solosis",
+            "imagen": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/577.png",
+            "frases": [
+                {
+                    "frase": "Bagon es un Pokémon tipo dragón"
+                },
+                {
+                    "frase": "Bagon es de color azul"
+                }
+            ]
+        },
+        {
+            "silaba": "su",
+            "nombre": "Suicune",
+            "imagen": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/245.png",
+            "frases": [
+                {
+                    "frase": "Bagon es un Pokémon tipo dragón"
+                },
+                {
+                    "frase": "Bagon es de color azul"
+                }
+            ]
+        }
+    ]
+}
